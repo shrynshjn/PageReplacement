@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 
 int in(int size, int * array, int value){
